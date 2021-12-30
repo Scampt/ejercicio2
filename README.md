@@ -1,2 +1,2 @@
-# ejercicio2
-Ejercicio de prueba de una página web
+# Mi primera página web
+Mi primera página web, sin conocimientos previos
